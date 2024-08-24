@@ -19,7 +19,7 @@ function onMapClick(e)
 map.on('click',onMapClick);
 
 const firebaseConfig = {
-    apiKey: "AIzaSyC3fErJkfj1XMyyz8Ir9fnvWrf9diAnIJU",
+    apiKey: "YOUR_API_KEY",
     authDomain: "comevent-467db.firebaseapp.com",
     databaseURL: "https://comevent-467db-default-rtdb.firebaseio.com",
     projectId: "comevent-467db",
