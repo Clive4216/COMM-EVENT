@@ -1,6 +1,6 @@
 
 const firebaseConfig = {
-    apiKey: "AIzaSyC3fErJkfj1XMyyz8Ir9fnvWrf9diAnIJU",
+    apiKey: "YOUR_API_KEY",
     authDomain: "comevent-467db.firebaseapp.com",
     projectId: "comevent-467db",
     storageBucket: "comevent-467db.appspot.com",
