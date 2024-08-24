@@ -3,7 +3,7 @@ import { getDatabase, ref, onValue } from 'https://www.gstatic.com/firebasejs/10
 import { getAuth, onAuthStateChanged } from 'https://www.gstatic.com/firebasejs/10.11.1/firebase-auth.js';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyC3fErJkfj1XMyyz8Ir9fnvWrf9diAnIJU",
+    apiKey: "YOUR_API_KEY",
     authDomain: "comevent-467db.firebaseapp.com",
     databaseURL: "https://comevent-467db-default-rtdb.firebaseio.com",
     projectId: "comevent-467db",
